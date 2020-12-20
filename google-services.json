@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "303607547243",
+    "firebase_url": "https://the-smart-scanner.firebaseio.com",
+    "project_id": "the-smart-scanner",
+    "storage_bucket": "the-smart-scanner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303607547243:android:5d6c222cb165eb5177382e",
+        "android_client_info": {
+          "package_name": "com.example.thesmartscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303607547243-sttri97krm3lrjf4rhihf8e12b3cmvc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtILQcn7kFU-z68kkYhEngF9CyOZCAF10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303607547243-sttri97krm3lrjf4rhihf8e12b3cmvc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

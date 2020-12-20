@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">The Smart Scanner</string>
+    <string name="splash_logo">LOGO</string>
+    <string name="scanner">SCANNER</string>
+    <string name="approved_ac">APPROVED</string>
+    <string name="the_smart_scanner">The Smart Scanner</string>
+    <string name="name">Name</string>
+    <string name="mobile_no1">Mobile No</string>
+    <string name="mobile_no">Mobile No</string>
+    <string name="no_of_persons">No of Persons</string>
+    <string name="name1">Name</string>
+    <string name="no_of_persons1">No of Persons</string>
+    <string name="email">Email</string>
+    <string name="guest_of">Guest Of</string>
+    <string name="date">Date</string>
+    <string name="guest_of1">Guest Of</string>
+    <string name="email1">Email</string>
+    <string name="date1">Date</string>
+    <string name="approve">Approve</string>
+</resources>
