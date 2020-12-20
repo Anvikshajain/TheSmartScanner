@@ -8,5 +8,5 @@ Scanner- This part scans the visiting card by the guard and the data is automati
 # Screenshots
 
 ![IMG_20201219_193823](https://user-images.githubusercontent.com/56529970/102713134-eb751a00-42eb-11eb-9aad-a32cb9191473.jpg) ![IMG_20201219_193837](https://user-images.githubusercontent.com/56529970/102713131-e748fc80-42eb-11eb-8610-60e9056311df.jpg)
-![IMG_20201219_193853](https://user-images.githubusercontent.com/56529970/102713133-e9ab5680-42eb-11eb-94f4-4ee71813b1c7.jpg) ![IMG_20201219_193909](https://user-images.githubusercontent.com/56529970/102713135-ec0db080-42eb-11eb-9deb-608711b2b5d0.jpg)
+![IMG_20201219_193909](https://user-images.githubusercontent.com/56529970/102713135-ec0db080-42eb-11eb-9deb-608711b2b5d0.jpg)
 
